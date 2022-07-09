@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c++" Database="" Version="10000">
+  <Project Name="cppvectors" Path="c++/c++.project" Active="No"/>
+  <Project Name="counter" Path="counter/counter.project" Active="No"/>
+  <Project Name="switchcase" Path="switchcase/switchcase.project" Active="No"/>
+  <Project Name="conditional_operator" Path="conditional_operator/conditional_operator.project" Active="No"/>
+  <Project Name="indentation" Path="indentation/indentation.project" Active="No"/>
+  <Project Name="range_for_loop" Path="range_for_loop/range_for_loop.project" Active="No"/>
+  <Project Name="times_table" Path="nested_loop/nested_loop.project" Active="No"/>
+  <Project Name="histogram" Path="histogram/histogram.project" Active="No"/>
+  <Project Name="challenge" Path="challenge/challenge.project" Active="No"/>
+  <Project Name="day1" Path="day1/day1.project" Active="No"/>
+  <Project Name="Cleaning_service" Path="carpet_cleaning/carpet_cleaning.project" Active="No"/>
+  <Project Name="day2_cleaning_service" Path="cleaning_service/cleaning_service.project" Active="No"/>
+  <Project Name="bankapp" Path="bankapp/bankapp.project" Active="No"/>
+  <Project Name="Cstrings" Path="Cstrings/Cstrings.project" Active="No"/>
+  <Project Name="day4" Path="day4/day4.project" Active="No"/>
+  <Project Name="functions" Path="functions/functions.project" Active="No"/>
+  <Project Name="fun" Path="fun/fun.project" Active="No"/>
+  <Project Name="passarrayfunction" Path="passarrayfunction/passarrayfunction.project" Active="No"/>
+  <Project Name="passbyrefrence" Path="passbyrefrence/passbyrefrence.project" Active="No"/>
+  <Project Name="scope_rules" Path="scope_rules/scope_rules.project" Active="No"/>
+  <Project Name="Recursion" Path="Recursion/Recursion.project" Active="No"/>
+  <Project Name="challange2_for_functions" Path="challange2_for_functions/challange2_for_functions.project" Active="No"/>
+  <Project Name="pointers" Path="pointers/pointers.project" Active="No"/>
+  <Project Name="Dereferencing_pointers" Path="Dereferencing_pointers/Dereferencing_pointers.project" Active="No"/>
+  <Project Name="dynamic_allocation" Path="dynamic_allocation/dynamic_allocation.project" Active="No"/>
+  <Project Name="pointer_arithmetic" Path="pointer_arithmetic/pointer_arithmetic.project" Active="No"/>
+  <Project Name="constant_pointers" Path="constant_pointers/constant_pointers.project" Active="No"/>
+  <Project Name="passing_pointers_to_function" Path="passing_pointers_to/passing_pointers_to.project" Active="No"/>
+  <Project Name="passing_pointers_to_function" Path="passing_pointers_to_function/passing_pointers_to_function.project" Active="No"/>
+  <Project Name="returning_functions_to_array" Path="returning_functions_to_array/returning_functions_to_array.project" Active="No"/>
+  <Project Name="Reference" Path="Reference/Reference.project" Active="No"/>
+  <Project Name="learn" Path="learn/learn.project" Active="No"/>
+  <Project Name="Class_and_objects" Path="Class_and_objects/Class_and_objects.project" Active="No"/>
+  <Project Name="OOP" Path="constructor/constructor.project" Active="No"/>
+  <Project Name="header_file" Path="header_file/header_file.project" Active="No"/>
+  <Project Name="function_overloading" Path="function_overloading/function_overloading.project" Active="No"/>
+  <Project Name="constructor" Path="constructor/constructor.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="cppvectors" ConfigName="Debug"/>
+      <Project Name="counter" ConfigName="Debug"/>
+      <Project Name="switchcase" ConfigName="Debug"/>
+      <Project Name="conditional_operator" ConfigName="Debug"/>
+      <Project Name="indentation" ConfigName="Debug"/>
+      <Project Name="range_for_loop" ConfigName="Debug"/>
+      <Project Name="times_table" ConfigName="Debug"/>
+      <Project Name="histogram" ConfigName="Debug"/>
+      <Project Name="challenge" ConfigName="Debug"/>
+      <Project Name="day1" ConfigName="Debug"/>
+      <Project Name="Cleaning_service" ConfigName="Debug"/>
+      <Project Name="day2_cleaning_service" ConfigName="Debug"/>
+      <Project Name="bankapp" ConfigName="Debug"/>
+      <Project Name="Cstrings" ConfigName="Debug"/>
+      <Project Name="day4" ConfigName="Debug"/>
+      <Project Name="functions" ConfigName="Debug"/>
+      <Project Name="fun" ConfigName="Debug"/>
+      <Project Name="passarrayfunction" ConfigName="Debug"/>
+      <Project Name="passbyrefrence" ConfigName="Debug"/>
+      <Project Name="scope_rules" ConfigName="Debug"/>
+      <Project Name="Recursion" ConfigName="Debug"/>
+      <Project Name="challange2_for_functions" ConfigName="Debug"/>
+      <Project Name="pointers" ConfigName="Debug"/>
+      <Project Name="Dereferencing_pointers" ConfigName="Debug"/>
+      <Project Name="dynamic_allocation" ConfigName="Debug"/>
+      <Project Name="pointer_arithmetic" ConfigName="Debug"/>
+      <Project Name="constant_pointers" ConfigName="Debug"/>
+      <Project Name="passing_pointers_to_function" ConfigName="Debug"/>
+      <Project Name="passing_pointers_to_function" ConfigName="Debug"/>
+      <Project Name="returning_functions_to_array" ConfigName="Debug"/>
+      <Project Name="Reference" ConfigName="Debug"/>
+      <Project Name="learn" ConfigName="Debug"/>
+      <Project Name="Class_and_objects" ConfigName="Debug"/>
+      <Project Name="OOP" ConfigName="Debug"/>
+      <Project Name="header_file" ConfigName="Debug"/>
+      <Project Name="function_overloading" ConfigName="Debug"/>
+      <Project Name="constructor" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="cppvectors" ConfigName="Release"/>
+      <Project Name="counter" ConfigName="Release"/>
+      <Project Name="switchcase" ConfigName="Release"/>
+      <Project Name="conditional_operator" ConfigName="Release"/>
+      <Project Name="indentation" ConfigName="Release"/>
+      <Project Name="range_for_loop" ConfigName="Release"/>
+      <Project Name="times_table" ConfigName="Release"/>
+      <Project Name="histogram" ConfigName="Release"/>
+      <Project Name="challenge" ConfigName="Release"/>
+      <Project Name="day1" ConfigName="Release"/>
+      <Project Name="Cleaning_service" ConfigName="Release"/>
+      <Project Name="day2_cleaning_service" ConfigName="Release"/>
+      <Project Name="bankapp" ConfigName="Release"/>
+      <Project Name="Cstrings" ConfigName="Release"/>
+      <Project Name="day4" ConfigName="Release"/>
+      <Project Name="functions" ConfigName="Release"/>
+      <Project Name="fun" ConfigName="Release"/>
+      <Project Name="passarrayfunction" ConfigName="Release"/>
+      <Project Name="passbyrefrence" ConfigName="Release"/>
+      <Project Name="scope_rules" ConfigName="Release"/>
+      <Project Name="Recursion" ConfigName="Release"/>
+      <Project Name="challange2_for_functions" ConfigName="Release"/>
+      <Project Name="pointers" ConfigName="Release"/>
+      <Project Name="Dereferencing_pointers" ConfigName="Release"/>
+      <Project Name="dynamic_allocation" ConfigName="Release"/>
+      <Project Name="pointer_arithmetic" ConfigName="Release"/>
+      <Project Name="constant_pointers" ConfigName="Release"/>
+      <Project Name="passing_pointers_to_function" ConfigName="Release"/>
+      <Project Name="passing_pointers_to_function" ConfigName="Release"/>
+      <Project Name="returning_functions_to_array" ConfigName="Release"/>
+      <Project Name="Reference" ConfigName="Release"/>
+      <Project Name="learn" ConfigName="Release"/>
+      <Project Name="Class_and_objects" ConfigName="Release"/>
+      <Project Name="OOP" ConfigName="Release"/>
+      <Project Name="header_file" ConfigName="Release"/>
+      <Project Name="function_overloading" ConfigName="Release"/>
+      <Project Name="constructor" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
